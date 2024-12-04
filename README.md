@@ -38,6 +38,6 @@ The implemented model is inspired by Google's **Inception** architecture but sim
 
 The architecture is depicted below:
 
-![Inception Model Architecture](inception_model.png)
+![Inception Model Architecture](Inception_model.png)
 
 ---
